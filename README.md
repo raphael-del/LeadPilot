@@ -29,6 +29,8 @@ Gemini acts as the intelligence layer of the application, transforming an unstru
 - Gemini API
 - Google AI Studio
 - GitHub
+- automation
+- n8n
 
 ## How It Works
 
